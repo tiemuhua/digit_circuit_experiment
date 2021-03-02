@@ -1,0 +1,3946 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.9.12)  6 DEC 2020 15:39
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex
+(c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06> (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen135
+)) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen136
+) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count175
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count176
+\leftroot@=\count177
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count178
+\DOTSCASE@=\count179
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen137
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count180
+\c@MaxMatrixCols=\count181
+\dotsspace@=\muskip16
+\c@parentequation=\count182
+\dspbrk@lvl=\count183
+\tag@help=\toks16
+\row@=\count184
+\column@=\count185
+\maxfields@=\count186
+\andhelp@=\toks17
+\eqnshift@=\dimen138
+\alignsep@=\dimen139
+\tagshift@=\dimen140
+\tagwidth@=\dimen141
+\totwidth@=\dimen142
+\lineht@=\dimen143
+\@envbody=\toks18
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/cancel/cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/pdfsync/pdfsync.sty
+Package: pdfsync 2008/01/26 v1.1
+) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 209.
+) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/preprint/balance.sty
+Package: balance 1999/02/23 4.3 (PWD)
+\oldvsize=\dimen144
+) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+ (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+ (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2020/03/24 v1.24 mathematical typesetting tools
+ (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count187
+\calc@Bcount=\count188
+\calc@Adimen=\dimen145
+\calc@Bdimen=\dimen146
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count189
+\calc@Cskip=\skip54
+) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
+\g_MT_multlinerow_int=\count190
+\l_MT_multwidth_dim=\dimen147
+\origjot=\skip55
+\l_MT_shortvdotswithinadjustabove_dim=\dimen148
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen149
+\l_MT_above_intertext_sep=\dimen150
+\l_MT_below_intertext_sep=\dimen151
+\l_MT_above_shortintertext_sep=\dimen152
+\l_MT_below_shortintertext_sep=\dimen153
+\xmathstrut@box=\box47
+\xmathstrut@dim=\dimen154
+) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+ (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count191
+\c@ALG@rem=\count192
+\c@ALG@nested=\count193
+\ALG@tlm=\skip56
+\ALG@thistlm=\skip57
+\c@ALG@Lnr=\count194
+\c@ALG@blocknr=\count195
+\c@ALG@storecount=\count196
+\c@ALG@tmpcounter=\count197
+\ALG@tmplength=\skip58
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
+ (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count198
+\float@exts=\toks21
+\float@box=\box48
+\@float@everytoks=\toks22
+\@floatcapt=\box49
+)
+\@float@every@algorithm=\toks23
+\c@algorithm=\count199
+)
+\c@theorem=\count266
+ (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/diagbox/diagbox.sty
+Package: diagbox 2020/02/09 v2.3 Making table heads with diagonal lines
+ (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/pict2e/pict2e.sty
+Package: pict2e 2019/08/20 v0.3c Improved picture commands (HjG,RN,JT)
+ (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/pict2e/pict2e.cfg
+File: pict2e.cfg 2016/02/05 v0.1u pict2e configuration for teTeX/TeXLive
+)
+Package pict2e Info: Driver file: pdftex.def on input line 119.
+Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 121.
+ (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/pict2e/p2e-pdftex.def
+File: p2e-pdftex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
+) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+\pIIe@GRAPH=\toks24
+\@arclen=\dimen155
+\@arcrad=\dimen156
+\@tempdimd=\dimen157
+) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen158
+\ar@mcellbox=\box50
+\extrarowheight=\dimen159
+\NC@list=\toks25
+\extratabsurround=\skip59
+\backup@length=\skip60
+\ar@cellbox=\box51
+)
+\diagbox@boxa=\box52
+\diagbox@boxb=\box53
+\diagbox@boxm=\box54
+\diagbox@wd=\dimen160
+\diagbox@ht=\dimen161
+\diagbox@insepl=\dimen162
+\diagbox@insepr=\dimen163
+\diagbox@outsepl=\dimen164
+\diagbox@outsepr=\dimen165
+) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf.sty
+Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
+ (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+ (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+ (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
+ (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+
+Package epstopdf Warning: No graphics package `graphic{s,x}' loaded.
+
+)) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen166
+\lightrulewidth=\dimen167
+\cmidrulewidth=\dimen168
+\belowrulesep=\dimen169
+\belowbottomsep=\dimen170
+\aboverulesep=\dimen171
+\abovetopsep=\dimen172
+\cmidrulesep=\dimen173
+\cmidrulekern=\dimen174
+\defaultaddspace=\dimen175
+\@cmidla=\count267
+\@cmidlb=\count268
+\@aboverulesep=\dimen176
+\@belowrulesep=\dimen177
+\@thisruleclass=\count269
+\@lastruleclass=\count270
+\@thisrulewidth=\dimen178
+) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen179
+\Gin@req@width=\dimen180
+) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip61
+\subfigcapskip=\skip62
+\subfigcaptopadj=\dimen181
+\subfigbottomskip=\skip63
+\subfigcapmargin=\dimen182
+\subfiglabelskip=\skip64
+\c@subfigure=\count271
+\c@lofdepth=\count272
+\c@subtable=\count273
+\c@lotdepth=\count274
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip65
+\subfig@bottom=\skip66
+) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box55
+) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count275
+\Gm@cntv=\count276
+\c@Gm@tempcnt=\count277
+\Gm@bindingoffset=\dimen183
+\Gm@wd@mp=\dimen184
+\Gm@odd@mp=\dimen185
+\Gm@even@mp=\dimen186
+\Gm@layoutwidth=\dimen187
+\Gm@layoutheight=\dimen188
+\Gm@layouthoffset=\dimen189
+\Gm@layoutvoffset=\dimen190
+\Gm@dimlist=\toks26
+) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks27
+\inpenc@posthook=\toks28
+) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/xelatex/xecjk/xeCJK.sty (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-03-06 L3 programming layer (loader) 
+ (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count278
+\l__pdf_internal_box=\box56
+))
+Package: xeCJK 2020/02/18 v3.8.2 Typesetting CJK scripts with XeLaTeX
+
+
+c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/xelatex/xecjk/xeCJK.sty:43: Critical Package xeCJK Error: The xeCJK package requires XeTeX to function.
+(xeCJK)                         
+(xeCJK)                         You must change your typesetting engine to
+(xeCJK)                         "xelatex"
+(xeCJK)                         instead of plain "latex" or "pdflatex" or
+(xeCJK)                         "lualatex".
+(xeCJK)                         Loading xeCJK will abort!
+
+Type <return> to continue.
+ ...                                              
+                                                  
+l.43 ..._critical:nn { xeCJK } { Require-XeTeX } }
+                                                  
+
+LaTeX does not know anything more about this error, sorry.
+
+Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+Reading the current file 'xeCJK' will stop.
+
+
+) (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.aux)
+\openout1 = `digital_clock.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Fnct_kern_skip=\skip72
+\l__xeCJK_last_penalty_int=\count287
+\l__xeCJK_last_bound_dim=\dimen199
+\l__xeCJK_last_kern_dim=\dimen256
+\l__xeCJK_widow_penalty_int=\count288
+
+Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
+(xtemplate)             argument(s) on line 2302.
+
+\l__xeCJK_fixed_punct_width_dim=\dimen257
+\l__xeCJK_mixed_punct_width_dim=\dimen258
+\l__xeCJK_middle_punct_width_dim=\dimen259
+\l__xeCJK_fixed_margin_width_dim=\dimen260
+\l__xeCJK_mixed_margin_width_dim=\dimen261
+\l__xeCJK_middle_margin_width_dim=\dimen262
+\l__xeCJK_bound_punct_width_dim=\dimen263
+\l__xeCJK_bound_margin_width_dim=\dimen264
+\l__xeCJK_margin_minimum_dim=\dimen265
+\l__xeCJK_kerning_total_width_dim=\dimen266
+\l__xeCJK_same_align_margin_dim=\dimen267
+\l__xeCJK_different_align_margin_dim=\dimen268
+\l__xeCJK_kerning_margin_width_dim=\dimen269
+\l__xeCJK_kerning_margin_minimum_dim=\dimen270
+\l__xeCJK_bound_dim=\dimen271
+\l__xeCJK_reverse_bound_dim=\dimen272
+\l__xeCJK_margin_dim=\dimen273
+\l__xeCJK_minimum_bound_dim=\dimen274
+\l__xeCJK_kerning_margin_dim=\dimen275
+\g__xeCJK_family_int=\count289
+\l__xeCJK_fam_int=\count290
+\g__xeCJK_fam_allocation_int=\count291
+\l__xeCJK_verb_case_int=\count292
+\l__xeCJK_verb_exspace_skip=\skip73
+
+(c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/fontspec/font
+spec.sty
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+
+(c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/fontspec/font
+spec-xetex.sty
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count293
+\l__fontspec_language_int=\count294
+\l__fontspec_strnum_int=\count295
+\l__fontspec_tmp_int=\count296
+\l__fontspec_tmpa_int=\count297
+\l__fontspec_tmpb_int=\count298
+\l__fontspec_tmpc_int=\count299
+\l__fontspec_em_int=\count300
+\l__fontspec_emdef_int=\count301
+\l__fontspec_strong_int=\count302
+\l__fontspec_strongdef_int=\count303
+\l__fontspec_tmpa_dim=\dimen276
+\l__fontspec_tmpb_dim=\dimen277
+\l__fontspec_tmpc_dim=\dimen278
+
+(c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/base/fontenc.
+sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+(c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/fontspec/font
+spec.cfg)))
+(c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/xelatex/xecjk/xeCJK
+.cfg
+File: xeCJK.cfg 2020/02/18 v3.8.2 Configuration file for xeCJK package
+))
+(c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/setspace/sets
+pace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+
+Package xeCJK Warning: Fandol is being set as the default font for CJK text.
+(xeCJK)                Please make sure it has been properly installed.
+
+
+Package fontspec Warning: Font "FandolSong-Regular" does not contain requested
+(fontspec)                Script "CJK".
+
+
+Package fontspec Info: Font family 'FandolSong-Regular(0)' created for font
+(fontspec)             'FandolSong-Regular' with options
+(fontspec)             [Script={CJK},Extension={.otf},BoldFont={FandolSong-Bold
+},ItalicFont={FandolKai-Regular}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FandolSong-Regular.otf]/OT:language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[FandolSong-Bold.otf]/OT:language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[FandolKai-Regular.otf]/OT:language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+
+(./digital_clock.aux)
+\openout1 = `digital_clock.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line/digital_circuit/digital_clock/digital_clock.tex:35: Package inputenc Error: Unicode character 验 (U+9A8C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35     \maketitle
+                   
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:35: Package inputenc Error: Unicode character 报 (U+62A5)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35     \maketitle
+                   
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:35: Package inputenc Error: Unicode character 告 (U+544A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35     \maketitle
+                   
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 35.
+(c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 35.
+ (c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:35: Package inputenc Error: Unicode character 姓 (U+59D3)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35     \maketitle
+                   
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:35: Package inputenc Error: Unicode character 名 (U+540D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35     \maketitle
+                   
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:35: Package inputenc Error: Unicode character ： (U+FF1A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35     \maketitle
+                   
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:35: Package inputenc Error: Unicode character 郭 (U+90ED)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35     \maketitle
+                   
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:35: Package inputenc Error: Unicode character 筠 (U+7B60)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 33.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 33.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 33.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 33.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 33.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 33.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 33.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 35.
+
+
+(c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa
+.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 35.
+
+
+(c:/Users/DELL/Desktop/software/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb
+.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+File: mod24K.jpg Graphic file (type bmp)
+<mod24K.jpg>
+File: mod1K.jpg Graphic file (type bmp)
+<mod1K.jpg>
+ [1
+
+]
+File: mod6.jpg Graphic file (type bmp)
+<mod6.jpg>
+File: mod10.jpg Graphic file (type bmp)
+<mod10.jpg>
+ [2]
+File: mod24.jpg Graphic file (type bmp)
+<mod24.jpg>
+File: mod24_2_bcd.jpg Graphic file (type bmp)
+<mod24_2_bcd.jpg>
+ [3]
+File: multiplexer.jpg Graphic file (type bmp)
+<multiplexer.jpg>
+File: eight_code.jpg Graphic file (type bmp)
+<eight_code.jpg>
+ [4]
+File: circuit.jpg Graphic file (type bmp)
+<circuit.jpg>
+File: final_result.jpg Graphic file (type bmp)
+<final_result.jpg>
+ [5] [6] (./digital_clock.aux) ) 
+Here is how much of TeX's memory you used:
+ 9287 strings out of 479418
+ 218185 string characters out of 5875785
+ 526272 words of memory out of 5000000
+ 26609 multiletter control sequences out of 15000+600000
+ 539864 words of font info for 65 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 46i,15n,73p,300b,353s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on digital_clock.pdf (6 pages).
+
+                                                  
+l.35     \maketitle
+                   
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:35: Package inputenc Error: Unicode character 学 (U+5B66)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35     \maketitle
+                   
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:35: Package inputenc Error: Unicode character 号 (U+53F7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35     \maketitle
+                   
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:35: Package inputenc Error: Unicode character ： (U+FF1A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35     \maketitle
+                   
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:35: Package inputenc Error: Unicode character 年 (U+5E74)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35     \maketitle
+                   
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:35: Package inputenc Error: Unicode character 月 (U+6708)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35     \maketitle
+                   
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:35: Package inputenc Error: Unicode character 日 (U+65E5)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35     \maketitle
+                   
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:36: Package inputenc Error: Unicode character 本 (U+672C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36     本
+            项目主要由如下模块组成：
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:36: Package inputenc Error: Unicode character 项 (U+9879)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36     本项
+               目主要由如下模块组成：
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:36: Package inputenc Error: Unicode character 目 (U+76EE)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36     本项目
+                  主要由如下模块组成：
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:36: Package inputenc Error: Unicode character 主 (U+4E3B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36     本项目主
+                     要由如下模块组成：
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:36: Package inputenc Error: Unicode character 要 (U+8981)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36     本项目主要
+                        由如下模块组成：
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:36: Package inputenc Error: Unicode character 由 (U+7531)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36     本项目主要由
+                           如下模块组成：
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:36: Package inputenc Error: Unicode character 如 (U+5982)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36     本项目主要由如
+                              下模块组成：
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:36: Package inputenc Error: Unicode character 下 (U+4E0B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36     本项目主要由如下
+                                 模块组成：
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:36: Package inputenc Error: Unicode character 模 (U+6A21)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36     本项目主要由如下模
+                                    块组成：
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:36: Package inputenc Error: Unicode character 块 (U+5757)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36     本项目主要由如下模块
+                                       组成：
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:36: Package inputenc Error: Unicode character 组 (U+7EC4)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36     本项目主要由如下模块组
+                                          成：
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:36: Package inputenc Error: Unicode character 成 (U+6210)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36     本项目主要由如下模块组成
+                                             ：
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:36: Package inputenc Error: Unicode character ： (U+FF1A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36     本项目主要由如下模块组成：
+                                                
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:38: Package inputenc Error: Unicode character 首 (U+9996)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38     首
+            先，通过对输入的24M Hz时钟信号进行24K分频，得�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:38: Package inputenc Error: Unicode character 先 (U+5148)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38     首先
+               ，通过对输入的24M Hz时钟信号进行24K分频，得�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:38: Package inputenc Error: Unicode character ， (U+FF0C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38     首先，
+                  通过对输入的24M Hz时钟信号进行24K分频，得�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:38: Package inputenc Error: Unicode character 通 (U+901A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38     首先，通
+                     过对输入的24M Hz时钟信号进行24K分频，得�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:38: Package inputenc Error: Unicode character 过 (U+8FC7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38     首先，通过
+                        对输入的24M Hz时钟信号进行24K分频，得�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:38: Package inputenc Error: Unicode character 对 (U+5BF9)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38     首先，通过对
+                           输入的24M Hz时钟信号进行24K分频，得�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:38: Package inputenc Error: Unicode character 输 (U+8F93)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38     首先，通过对输
+                              入的24M Hz时钟信号进行24K分频，得�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:38: Package inputenc Error: Unicode character 入 (U+5165)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38     首先，通过对输入
+                                 的24M Hz时钟信号进行24K分频，得�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:38: Package inputenc Error: Unicode character 的 (U+7684)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38     首先，通过对输入的
+                                    24M Hz时钟信号进行24K分频，得�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:38: Package inputenc Error: Unicode character 时 (U+65F6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38     首先，通过对输入的24M Hz时
+                                             钟信号进行24K分频，得�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:38: Package inputenc Error: Unicode character 钟 (U+949F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38     首先，通过对输入的24M Hz时钟
+                                                信号进行24K分频，得�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:38: Package inputenc Error: Unicode character 信 (U+4FE1)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 ...首先，通过对输入的24M Hz时钟信
+                                                  号进行24K分频，得�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:38: Package inputenc Error: Unicode character 号 (U+53F7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 ...先，通过对输入的24M Hz时钟信号
+                                                  进行24K分频，得到1K...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:38: Package inputenc Error: Unicode character 进 (U+8FDB)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 ...，通过对输入的24M Hz时钟信号进
+                                                  行24K分频，得到1KHz�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:38: Package inputenc Error: Unicode character 行 (U+884C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 ...通过对输入的24M Hz时钟信号进行
+                                                  24K分频，得到1KHz的�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:38: Package inputenc Error: Unicode character 分 (U+5206)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 ...对输入的24M Hz时钟信号进行24K分
+                                                  频，得到1KHz的时钟�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:38: Package inputenc Error: Unicode character 频 (U+9891)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 ...输入的24M Hz时钟信号进行24K分频
+                                                  ，得到1KHz的时钟信�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:38: Package inputenc Error: Unicode character ， (U+FF0C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 ...入的24M Hz时钟信号进行24K分频，
+                                                  得到1KHz的时钟信号。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:38: Package inputenc Error: Unicode character 得 (U+5F97)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 ...的24M Hz时钟信号进行24K分频，得
+                                                  到1KHz的时钟信号。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:38: Package inputenc Error: Unicode character 到 (U+5230)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 ...24M Hz时钟信号进行24K分频，得到
+                                                  1KHz的时钟信号。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:38: Package inputenc Error: Unicode character 的 (U+7684)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 ...��钟信号进行24K分频，得到1KHz的
+                                                  时钟信号。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:38: Package inputenc Error: Unicode character 时 (U+65F6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 ...��信号进行24K分频，得到1KHz的时
+                                                  钟信号。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:38: Package inputenc Error: Unicode character 钟 (U+949F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 ...��号进行24K分频，得到1KHz的时钟
+                                                  信号。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:38: Package inputenc Error: Unicode character 信 (U+4FE1)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 ...��进行24K分频，得到1KHz的时钟信
+                                                  号。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:38: Package inputenc Error: Unicode character 号 (U+53F7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 ...��行24K分频，得到1KHz的时钟信号
+                                                  。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:38: Package inputenc Error: Unicode character 。 (U+3002)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 ...��24K分频，得到1KHz的时钟信号。
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:39: Package inputenc Error: Unicode character 然 (U+7136)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39     然
+            后对1K的时钟信号进行分频，得到1Hz的时钟信号。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:39: Package inputenc Error: Unicode character 后 (U+540E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39     然后
+               对1K的时钟信号进行分频，得到1Hz的时钟信号。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:39: Package inputenc Error: Unicode character 对 (U+5BF9)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39     然后对
+                  1K的时钟信号进行分频，得到1Hz的时钟信号。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:39: Package inputenc Error: Unicode character 的 (U+7684)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39     然后对1K的
+                       时钟信号进行分频，得到1Hz的时钟信号。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:39: Package inputenc Error: Unicode character 时 (U+65F6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39     然后对1K的时
+                          钟信号进行分频，得到1Hz的时钟信号。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:39: Package inputenc Error: Unicode character 钟 (U+949F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39     然后对1K的时钟
+                             信号进行分频，得到1Hz的时钟信号。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:39: Package inputenc Error: Unicode character 信 (U+4FE1)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39     然后对1K的时钟信
+                                号进行分频，得到1Hz的时钟信号。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:39: Package inputenc Error: Unicode character 号 (U+53F7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39     然后对1K的时钟信号
+                                   进行分频，得到1Hz的时钟信号。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:39: Package inputenc Error: Unicode character 进 (U+8FDB)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39     然后对1K的时钟信号进
+                                      行分频，得到1Hz的时钟信号。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:39: Package inputenc Error: Unicode character 行 (U+884C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39     然后对1K的时钟信号进行
+                                         分频，得到1Hz的时钟信号。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:39: Package inputenc Error: Unicode character 分 (U+5206)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39     然后对1K的时钟信号进行分
+                                            频，得到1Hz的时钟信号。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:39: Package inputenc Error: Unicode character 频 (U+9891)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39     然后对1K的时钟信号进行分频
+                                               ，得到1Hz的时钟信号。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:39: Package inputenc Error: Unicode character ， (U+FF0C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39     然后对1K的时钟信号进行分频，
+                                                  得到1Hz的时钟信号。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:39: Package inputenc Error: Unicode character 得 (U+5F97)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 ...�后对1K的时钟信号进行分频，得
+                                                  到1Hz的时钟信号。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:39: Package inputenc Error: Unicode character 到 (U+5230)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 ...�对1K的时钟信号进行分频，得到
+                                                  1Hz的时钟信号。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:39: Package inputenc Error: Unicode character 的 (U+7684)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 ...的时钟信号进行分频，得到1Hz的
+                                                  时钟信号。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:39: Package inputenc Error: Unicode character 时 (U+65F6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 ...时钟信号进行分频，得到1Hz的时
+                                                  钟信号。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:39: Package inputenc Error: Unicode character 钟 (U+949F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 ...钟信号进行分频，得到1Hz的时钟
+                                                  信号。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:39: Package inputenc Error: Unicode character 信 (U+4FE1)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 ...信号进行分频，得到1Hz的时钟信
+                                                  号。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:39: Package inputenc Error: Unicode character 号 (U+53F7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 ...号进行分频，得到1Hz的时钟信号
+                                                  。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:39: Package inputenc Error: Unicode character 。 (U+3002)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 ...进行分频，得到1Hz的时钟信号。
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 在 (U+5728)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41     在
+            当且仅当在计数到0的时候输出一个高电平，上升...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 当 (U+5F53)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41     在当
+               且仅当在计数到0的时候输出一个高电平，上升...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 且 (U+4E14)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41     在当且
+                  仅当在计数到0的时候输出一个高电平，上升...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 仅 (U+4EC5)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41     在当且仅
+                     当在计数到0的时候输出一个高电平，上升...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 当 (U+5F53)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41     在当且仅当
+                        在计数到0的时候输出一个高电平，上升...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 在 (U+5728)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41     在当且仅当在
+                           计数到0的时候输出一个高电平，上升...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 计 (U+8BA1)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41     在当且仅当在计
+                              数到0的时候输出一个高电平，上升...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 数 (U+6570)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41     在当且仅当在计数
+                                 到0的时候输出一个高电平，上升...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 到 (U+5230)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41     在当且仅当在计数到
+                                    0的时候输出一个高电平，上升...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 的 (U+7684)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41     在当且仅当在计数到0的
+                                        时候输出一个高电平，上升...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 时 (U+65F6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41     在当且仅当在计数到0的时
+                                           候输出一个高电平，上升...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 候 (U+5019)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41     在当且仅当在计数到0的时候
+                                              输出一个高电平，上升...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 输 (U+8F93)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41     在当且仅当在计数到0的时候输
+                                                 出一个高电平，上升...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 出 (U+51FA)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...��当且仅当在计数到0的时候输出
+                                                  一个高电平，上升�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 一 (U+4E00)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...��且仅当在计数到0的时候输出一
+                                                  个高电平，上升沿�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 个 (U+4E2A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...��仅当在计数到0的时候输出一个
+                                                  高电平，上升沿作�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 高 (U+9AD8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...��当在计数到0的时候输出一个高
+                                                  电平，上升沿作为�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 电 (U+7535)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...��在计数到0的时候输出一个高电
+                                                  平，上升沿作为下�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 平 (U+5E73)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...��计数到0的时候输出一个高电平
+                                                  ，上升沿作为下一�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character ， (U+FF0C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...��数到0的时候输出一个高电平，
+                                                  上升沿作为下一级�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 上 (U+4E0A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...��到0的时候输出一个高电平，上
+                                                  升沿作为下一级（�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 升 (U+5347)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...��0的时候输出一个高电平，上升
+                                                  沿作为下一级（秒�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 沿 (U+6CBF)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...的时候输出一个高电平，上升沿
+                                                  作为下一级（秒数�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 作 (U+4F5C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...时候输出一个高电平，上升沿作
+                                                  为下一级（秒数的�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 为 (U+4E3A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...候输出一个高电平，上升沿作为
+                                                  下一级（秒数的十�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 下 (U+4E0B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...输出一个高电平，上升沿作为下
+                                                  一级（秒数的十位�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 一 (U+4E00)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...出一个高电平，上升沿作为下一
+                                                  级（秒数的十位）�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 级 (U+7EA7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...一个高电平，上升沿作为下一级
+                                                  （秒数的十位）的�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character （ (U+FF08)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...个高电平，上升沿作为下一级（
+                                                  秒数的十位）的时�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 秒 (U+79D2)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...高电平，上升沿作为下一级（秒
+                                                  数的十位）的时钟�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 数 (U+6570)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...电平，上升沿作为下一级（秒数
+                                                  的十位）的时钟信�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 的 (U+7684)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...平，上升沿作为下一级（秒数的
+                                                  十位）的时钟信号�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 十 (U+5341)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...，上升沿作为下一级（秒数的十
+                                                  位）的时钟信号输�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 位 (U+4F4D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...上升沿作为下一级（秒数的十位
+                                                  ）的时钟信号输入。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character ） (U+FF09)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...升沿作为下一级（秒数的十位）
+                                                  的时钟信号输入。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 的 (U+7684)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...沿作为下一级（秒数的十位）的
+                                                  时钟信号输入。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 时 (U+65F6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...作为下一级（秒数的十位）的时
+                                                  钟信号输入。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 钟 (U+949F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...为下一级（秒数的十位）的时钟
+                                                  信号输入。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 信 (U+4FE1)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...下一级（秒数的十位）的时钟信
+                                                  号输入。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 号 (U+53F7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...一级（秒数的十位）的时钟信号
+                                                  输入。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 输 (U+8F93)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...级（秒数的十位）的时钟信号输
+                                                  入。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 入 (U+5165)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...（秒数的十位）的时钟信号输入
+                                                  。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:41: Package inputenc Error: Unicode character 。 (U+3002)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...秒数的十位）的时钟信号输入。
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 利 (U+5229)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42     利
+            用模6计数器和模10计数器各两个，组成一个异步�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 用 (U+7528)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42     利用
+               模6计数器和模10计数器各两个，组成一个异步�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 模 (U+6A21)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42     利用模
+                  6计数器和模10计数器各两个，组成一个异步�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 计 (U+8BA1)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42     利用模6计
+                      数器和模10计数器各两个，组成一个异步�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 数 (U+6570)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42     利用模6计数
+                         器和模10计数器各两个，组成一个异步�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 器 (U+5668)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42     利用模6计数器
+                            和模10计数器各两个，组成一个异步�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 和 (U+548C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42     利用模6计数器和
+                               模10计数器各两个，组成一个异步�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 模 (U+6A21)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42     利用模6计数器和模
+                                  10计数器各两个，组成一个异步�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 计 (U+8BA1)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42     利用模6计数器和模10计
+                                       数器各两个，组成一个异步�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 数 (U+6570)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42     利用模6计数器和模10计数
+                                          器各两个，组成一个异步�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 器 (U+5668)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42     利用模6计数器和模10计数器
+                                             各两个，组成一个异步�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 各 (U+5404)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42     利用模6计数器和模10计数器各
+                                                两个，组成一个异步�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 两 (U+4E24)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...利用模6计数器和模10计数器各两
+                                                  个，组成一个异步�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 个 (U+4E2A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...用模6计数器和模10计数器各两个
+                                                  ，组成一个异步时�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character ， (U+FF0C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...模6计数器和模10计数器各两个，
+                                                  组成一个异步时序�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 组 (U+7EC4)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...6计数器和模10计数器各两个，组
+                                                  成一个异步时序电�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 成 (U+6210)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...�数器和模10计数器各两个，组成
+                                                  一个异步时序电路�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 一 (U+4E00)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...�器和模10计数器各两个，组成一
+                                                  个异步时序电路，�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 个 (U+4E2A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...�和模10计数器各两个，组成一个
+                                                  异步时序电路，完�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 异 (U+5F02)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...�模10计数器各两个，组成一个异
+                                                  步时序电路，完成�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 步 (U+6B65)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...�10计数器各两个，组成一个异步
+                                                  时序电路，完成对�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 时 (U+65F6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...计数器各两个，组成一个异步时
+                                                  序电路，完成对分�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 序 (U+5E8F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...数器各两个，组成一个异步时序
+                                                  电路，完成对分、�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 电 (U+7535)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...器各两个，组成一个异步时序电
+                                                  路，完成对分、秒�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 路 (U+8DEF)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...各两个，组成一个异步时序电路
+                                                  ，完成对分、秒的�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character ， (U+FF0C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...两个，组成一个异步时序电路，
+                                                  完成对分、秒的十�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 完 (U+5B8C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...个，组成一个异步时序电路，完
+                                                  成对分、秒的十位�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 成 (U+6210)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...，组成一个异步时序电路，完成
+                                                  对分、秒的十位个�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 对 (U+5BF9)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...组成一个异步时序电路，完成对
+                                                  分、秒的十位个位�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 分 (U+5206)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...成一个异步时序电路，完成对分
+                                                  、秒的十位个位数�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 、 (U+3001)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...一个异步时序电路，完成对分、
+                                                  秒的十位个位数字�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 秒 (U+79D2)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...个异步时序电路，完成对分、秒
+                                                  的十位个位数字的�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 的 (U+7684)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...异步时序电路，完成对分、秒的
+                                                  十位个位数字的计�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 十 (U+5341)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...步时序电路，完成对分、秒的十
+                                                  位个位数字的计数。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 位 (U+4F4D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...时序电路，完成对分、秒的十位
+                                                  个位数字的计数。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 个 (U+4E2A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...序电路，完成对分、秒的十位个
+                                                  位数字的计数。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 位 (U+4F4D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...电路，完成对分、秒的十位个位
+                                                  数字的计数。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 数 (U+6570)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...路，完成对分、秒的十位个位数
+                                                  字的计数。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 字 (U+5B57)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...，完成对分、秒的十位个位数字
+                                                  的计数。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 的 (U+7684)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...完成对分、秒的十位个位数字的
+                                                  计数。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 计 (U+8BA1)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...成对分、秒的十位个位数字的计
+                                                  数。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 数 (U+6570)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...对分、秒的十位个位数字的计数
+                                                  。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:42: Package inputenc Error: Unicode character 。 (U+3002)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...分、秒的十位个位数字的计数。
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 第 (U+7B2C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44     第
+            二个模10计数器的输出信号作为时钟信号输入到�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 二 (U+4E8C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44     第二
+               个模10计数器的输出信号作为时钟信号输入到�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 个 (U+4E2A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44     第二个
+                  模10计数器的输出信号作为时钟信号输入到�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 模 (U+6A21)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44     第二个模
+                     10计数器的输出信号作为时钟信号输入到�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 计 (U+8BA1)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44     第二个模10计
+                          数器的输出信号作为时钟信号输入到�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 数 (U+6570)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44     第二个模10计数
+                             器的输出信号作为时钟信号输入到�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 器 (U+5668)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44     第二个模10计数器
+                                的输出信号作为时钟信号输入到�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 的 (U+7684)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44     第二个模10计数器的
+                                   输出信号作为时钟信号输入到�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 输 (U+8F93)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44     第二个模10计数器的输
+                                      出信号作为时钟信号输入到�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 出 (U+51FA)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44     第二个模10计数器的输出
+                                         信号作为时钟信号输入到�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 信 (U+4FE1)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44     第二个模10计数器的输出信
+                                            号作为时钟信号输入到�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 号 (U+53F7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44     第二个模10计数器的输出信号
+                                               作为时钟信号输入到�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 作 (U+4F5C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44     第二个模10计数器的输出信号作
+                                                  为时钟信号输入到�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 为 (U+4E3A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 ...�二个模10计数器的输出信号作为
+                                                  时钟信号输入到一�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 时 (U+65F6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 ...�个模10计数器的输出信号作为时
+                                                  钟信号输入到一个�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 钟 (U+949F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 ...�模10计数器的输出信号作为时钟
+                                                  信号输入到一个模24...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 信 (U+4FE1)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 ...�10计数器的输出信号作为时钟信
+                                                  号输入到一个模24计...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 号 (U+53F7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 ...计数器的输出信号作为时钟信号
+                                                  输入到一个模24计数...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 输 (U+8F93)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 ...数器的输出信号作为时钟信号输
+                                                  入到一个模24计数器...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 入 (U+5165)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 ...器的输出信号作为时钟信号输入
+                                                  到一个模24计数器当...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 到 (U+5230)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 ...的输出信号作为时钟信号输入到
+                                                  一个模24计数器当中...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 一 (U+4E00)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 ...输出信号作为时钟信号输入到一
+                                                  个模24计数器当中，...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 个 (U+4E2A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 ...出信号作为时钟信号输入到一个
+                                                  模24计数器当中，模...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 模 (U+6A21)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 ...信号作为时钟信号输入到一个模
+                                                  24计数器当中，模24�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 计 (U+8BA1)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 ...�作为时钟信号输入到一个模24计
+                                                  数器当中，模24计数...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 数 (U+6570)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 ...�为时钟信号输入到一个模24计数
+                                                  器当中，模24计数器...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 器 (U+5668)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 ...�时钟信号输入到一个模24计数器
+                                                  当中，模24计数器记...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 当 (U+5F53)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 ...�钟信号输入到一个模24计数器当
+                                                  中，模24计数器记录...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 中 (U+4E2D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 ...�信号输入到一个模24计数器当中
+                                                  ，模24计数器记录了...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character ， (U+FF0C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 ...�号输入到一个模24计数器当中，
+                                                  模24计数器记录了小...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 模 (U+6A21)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 ...�输入到一个模24计数器当中，模
+                                                  24计数器记录了小时...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 计 (U+8BA1)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 ...��到一个模24计数器当中，模24计
+                                                  数器记录了小时数。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 数 (U+6570)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 ...��一个模24计数器当中，模24计数
+                                                  器记录了小时数。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 器 (U+5668)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 ...��个模24计数器当中，模24计数器
+                                                  记录了小时数。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 记 (U+8BB0)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 ...��模24计数器当中，模24计数器记
+                                                  录了小时数。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 录 (U+5F55)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 ...��24计数器当中，模24计数器记录
+                                                  了小时数。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 了 (U+4E86)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 ...4计数器当中，模24计数器记录了
+                                                  小时数。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 小 (U+5C0F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 ...�数器当中，模24计数器记录了小
+                                                  时数。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 时 (U+65F6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 ...�器当中，模24计数器记录了小时
+                                                  数。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 数 (U+6570)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 ...�当中，模24计数器记录了小时数
+                                                  。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:44: Package inputenc Error: Unicode character 。 (U+3002)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 ...�中，模24计数器记录了小时数。
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 由 (U+7531)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45     由
+            于24的个位不能看成是一个模10计数器，故不能像...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 于 (U+4E8E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45     由于
+               24的个位不能看成是一个模10计数器，故不能像...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 的 (U+7684)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45     由于24的
+                    个位不能看成是一个模10计数器，故不能像...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 个 (U+4E2A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45     由于24的个
+                       位不能看成是一个模10计数器，故不能像...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 位 (U+4F4D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45     由于24的个位
+                          不能看成是一个模10计数器，故不能像...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 不 (U+4E0D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45     由于24的个位不
+                             能看成是一个模10计数器，故不能像...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 能 (U+80FD)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45     由于24的个位不能
+                                看成是一个模10计数器，故不能像...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 看 (U+770B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45     由于24的个位不能看
+                                   成是一个模10计数器，故不能像...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 成 (U+6210)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45     由于24的个位不能看成
+                                      是一个模10计数器，故不能像...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 是 (U+662F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45     由于24的个位不能看成是
+                                         一个模10计数器，故不能像...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 一 (U+4E00)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45     由于24的个位不能看成是一
+                                            个模10计数器，故不能像...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 个 (U+4E2A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45     由于24的个位不能看成是一个
+                                               模10计数器，故不能像...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 模 (U+6A21)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45     由于24的个位不能看成是一个模
+                                                  10计数器，故不能像...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 计 (U+8BA1)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...��24的个位不能看成是一个模10计
+                                                  数器，故不能像秒�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 数 (U+6570)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...4的个位不能看成是一个模10计数
+                                                  器，故不能像秒数�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 器 (U+5668)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...�个位不能看成是一个模10计数器
+                                                  ，故不能像秒数、�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character ， (U+FF0C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...�位不能看成是一个模10计数器，
+                                                  故不能像秒数、分�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 故 (U+6545)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...�不能看成是一个模10计数器，故
+                                                  不能像秒数、分数�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 不 (U+4E0D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...�能看成是一个模10计数器，故不
+                                                  能像秒数、分数那�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 能 (U+80FD)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...�看成是一个模10计数器，故不能
+                                                  像秒数、分数那样�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 像 (U+50CF)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...�成是一个模10计数器，故不能像
+                                                  秒数、分数那样通�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 秒 (U+79D2)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...�是一个模10计数器，故不能像秒
+                                                  数、分数那样通过�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 数 (U+6570)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...�一个模10计数器，故不能像秒数
+                                                  、分数那样通过两�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 、 (U+3001)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...�个模10计数器，故不能像秒数、
+                                                  分数那样通过两个�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 分 (U+5206)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...�模10计数器，故不能像秒数、分
+                                                  数那样通过两个计�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 数 (U+6570)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...�10计数器，故不能像秒数、分数
+                                                  那样通过两个计数�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 那 (U+90A3)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...计数器，故不能像秒数、分数那
+                                                  样通过两个计数器�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 样 (U+6837)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...数器，故不能像秒数、分数那样
+                                                  通过两个计数器来�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 通 (U+901A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...器，故不能像秒数、分数那样通
+                                                  过两个计数器来分�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 过 (U+8FC7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...，故不能像秒数、分数那样通过
+                                                  两个计数器来分别�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 两 (U+4E24)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...故不能像秒数、分数那样通过两
+                                                  个计数器来分别记�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 个 (U+4E2A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...不能像秒数、分数那样通过两个
+                                                  计数器来分别记录�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 计 (U+8BA1)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...能像秒数、分数那样通过两个计
+                                                  数器来分别记录十�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 数 (U+6570)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...像秒数、分数那样通过两个计数
+                                                  器来分别记录十位�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 器 (U+5668)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...秒数、分数那样通过两个计数器
+                                                  来分别记录十位和�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 来 (U+6765)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...数、分数那样通过两个计数器来
+                                                  分别记录十位和个�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 分 (U+5206)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...、分数那样通过两个计数器来分
+                                                  别记录十位和个位�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 别 (U+522B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...分数那样通过两个计数器来分别
+                                                  记录十位和个位的�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 记 (U+8BB0)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...数那样通过两个计数器来分别记
+                                                  录十位和个位的数�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 录 (U+5F55)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...那样通过两个计数器来分别记录
+                                                  十位和个位的数字。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 十 (U+5341)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...样通过两个计数器来分别记录十
+                                                  位和个位的数字。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 位 (U+4F4D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...通过两个计数器来分别记录十位
+                                                  和个位的数字。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 和 (U+548C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...过两个计数器来分别记录十位和
+                                                  个位的数字。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 个 (U+4E2A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...两个计数器来分别记录十位和个
+                                                  位的数字。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 位 (U+4F4D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...个计数器来分别记录十位和个位
+                                                  的数字。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 的 (U+7684)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...计数器来分别记录十位和个位的
+                                                  数字。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 数 (U+6570)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...数器来分别记录十位和个位的数
+                                                  字。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 字 (U+5B57)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...器来分别记录十位和个位的数字
+                                                  。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:45: Package inputenc Error: Unicode character 。 (U+3002)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...来分别记录十位和个位的数字。
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:46: Package inputenc Error: Unicode character 而 (U+800C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46     而
+            是需要通过一个转换单元，将模24的数字转换成�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:46: Package inputenc Error: Unicode character 是 (U+662F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46     而是
+               需要通过一个转换单元，将模24的数字转换成�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:46: Package inputenc Error: Unicode character 需 (U+9700)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46     而是需
+                  要通过一个转换单元，将模24的数字转换成�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:46: Package inputenc Error: Unicode character 要 (U+8981)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46     而是需要
+                     通过一个转换单元，将模24的数字转换成�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:46: Package inputenc Error: Unicode character 通 (U+901A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46     而是需要通
+                        过一个转换单元，将模24的数字转换成�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:46: Package inputenc Error: Unicode character 过 (U+8FC7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46     而是需要通过
+                           一个转换单元，将模24的数字转换成�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:46: Package inputenc Error: Unicode character 一 (U+4E00)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46     而是需要通过一
+                              个转换单元，将模24的数字转换成�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:46: Package inputenc Error: Unicode character 个 (U+4E2A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46     而是需要通过一个
+                                 转换单元，将模24的数字转换成�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:46: Package inputenc Error: Unicode character 转 (U+8F6C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46     而是需要通过一个转
+                                    换单元，将模24的数字转换成�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:46: Package inputenc Error: Unicode character 换 (U+6362)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46     而是需要通过一个转换
+                                       单元，将模24的数字转换成�...
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 5435 strings out of 480608
+ 81507 string characters out of 5893788
+ 326102 words of memory out of 5000000
+ 21188 multiletter control sequences out of 15000+600000
+ 541273 words of font info for 54 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 37i,10n,44p,336b,273s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+c:/Users/DELL/Desktop/EE/digital_circuit/digital_clock/digital_clock.tex:46:  ==> Fatal error occurred, no output PDF file produced!
